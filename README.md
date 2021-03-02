@@ -7,6 +7,8 @@
   <tr>
     <th>💬 Languages</th>
     <th>💡 Technologies</th>
+    <th>📦 Libraries</th>
+    <th>📖 Want to learn</th>
   </tr>
   <tr>
     <td>
@@ -33,12 +35,6 @@
         <li>🎮 Minecraft Spigot Plugins</li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <th>📦 Libraries</th>
-    <th>📖 Want to learn</th>
-  </tr>
-  <tr>
     <td>
       <ul>
         <li>🍡 Django</li>
