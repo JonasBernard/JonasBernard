@@ -5,8 +5,8 @@
 
 <table>
   <tr>
-    <td><h5>💬 Languages</h5></td>
-    <td><h5>💡 Technologies</h5></td>
+    <th>💬 Languages</th>
+    <th>💡 Technologies</th>
   </tr>
   <tr>
     <td>
@@ -35,8 +35,8 @@
     </td>
   </tr>
   <tr>
-    <td><h5>📦 Libraries</h5></td>
-    <td><h5>📖 Want to learn</h5></td>
+    <th>📦 Libraries</th>
+    <th>📖 Want to learn</th>
   </tr>
   <tr>
     <td>
