@@ -37,7 +37,7 @@
     </td>
     <td>
       <ul>
-        <li>🍡 Django</li>
+        <li>🍡 Django, Jinja2</li>
         <li>📱 Android SDK</li>
         <li>🐦 Bootstrap</li>
         <li>🆖 Angular</li>
