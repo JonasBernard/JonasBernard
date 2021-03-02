@@ -49,7 +49,7 @@
       <ul>
         <li>✉️ LuaTeX</li>
         <li>🪅 Machine learning</li>
-        <li>💎 writing complex bash scripts</li>
+        <li>💎 complex bash scripts</li>
         <li>🃏 Julia</li>
         <li>🔣 Matlab</li>
       </ul>
