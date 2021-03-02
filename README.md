@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasBernard&theme=dark&hide=issues&count_private=true&show_icons=true&hide_border=true&bg_color=ffffff00)](https://github.com/JonasBernard/JonasBernard)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasBernard&layout=compact&theme=dark&hide=ruby&langs_count=8&card_width=350&hide_border=true&bg_color=ffffff00)](https://github.com/JonasBernard/JonasBernard)
