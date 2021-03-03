@@ -24,7 +24,7 @@
     </td>
     <td>
       <ul>
-        <li>🤏 LaTeX/TeX/TikZ</li>
+        <li>🤏 LaTeX, TeX, TikZ</li>
         <li>💎 Jekyll, GitHub Pages</li>
         <li>📍 AJAX, REST APIs</li>
         <li>📎 HTML, CSS, SCSS, SASS</li>
