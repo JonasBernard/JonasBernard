@@ -15,7 +15,7 @@
       <ul>
         <li>🐍 Python (good)</li>
         <li>📜 Typescript, Javascript (good)</li>
-        <li>🏝️ Java (good)</li>
+        <li>☕️ Java (good)</li>
         <li>🌊 C (learning)</li>
         <li>✨ GLSL (learning)</li>
         <li>⚙️ Rust (learning)</li>
@@ -48,6 +48,8 @@
     <td>
       <ul>
         <li>✉️ LuaTeX</li>
+        <li>🏝️ Kotlin</li>
+        <li>🎯 Dart</li>
         <li>🪅 Machine learning</li>
         <li>💎 complex bash scripts</li>
         <li>🃏 Julia</li>
