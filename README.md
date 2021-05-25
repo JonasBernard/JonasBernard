@@ -8,7 +8,7 @@
   <tr>
     <th>💬 Languages</th>
     <th>💡 Technologies</th>
-    <th>📦 Libraries</th>
+    <th>📦 Libraries and Frameworks</th>
     <th>📖 Want to learn</th>
   </tr>
   <tr>
@@ -25,21 +25,23 @@
     </td>
     <td>
       <ul>
-        <li>🤏 LaTeX, TeX, TikZ</li>
+        <li>📱 Android SDK</li>
+        <li>✉️ LaTeX, LuaTeX, TikZ</li>
         <li>💎 Jekyll, GitHub Pages</li>
         <li>📍 AJAX, REST APIs</li>
         <li>📎 HTML, CSS, SCSS, SASS</li>
         <li>💚 Node.js</li>
         <li>🏃🏽 Fastlane</li>
         <li>🚀 GitHub Actions</li>
+        <li>🐳 Docker and Docker Compose</li>
+        <li>🎮 Minecraft Mods and Plugins</li>
         <li>🔦 OpenGL, WebGL</li>
-        <li>🎮 Minecraft Spigot Plugins</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>🍡 Django, Jinja2</li>
-        <li>📱 Android SDK</li>
+        <li>🍡 Django</li>
+        <li>🧪 Flask</li>
         <li>🐦 Bootstrap</li>
         <li>🆖 Angular</li>
         <li>⚛️ React</li>
@@ -49,7 +51,6 @@
     </td>
     <td>
       <ul>
-        <li>✉️ LuaTeX</li>
         <li>🏝️ Kotlin</li>
         <li>🎯 Dart</li>
         <li>🪅 Machine learning</li>
