@@ -42,8 +42,9 @@
         <li>📱 Android SDK</li>
         <li>🐦 Bootstrap</li>
         <li>🆖 Angular</li>
-        <li>🕒 THREE.js</li>
+        <li>⚛️ React</li>
         <li>🙈 Vue.js</li>
+        <li>🕒 THREE.js</li>
       </ul>
     </td>
     <td>
