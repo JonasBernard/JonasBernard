@@ -21,6 +21,7 @@
         <li>✨ GLSL (learning)</li>
         <li>⚙️ Rust (learning)</li>
         <li>💙 Lua (learning)</li>
+        <li>🔣 Matlab (learning)</li>
       </ul>
     </td>
     <td>
@@ -56,7 +57,6 @@
         <li>🪅 Machine learning</li>
         <li>💎 complex bash scripts</li>
         <li>🃏 Julia</li>
-        <li>🔣 Matlab</li>
       </ul>
     </td>
   </tr>
