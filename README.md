@@ -17,7 +17,7 @@
         <li>🐍 Python (good)</li>
         <li>📜 Typescript, Javascript (good)</li>
         <li>☕️ Java (good)</li>
-        <li>🌊 C (learning)</li>
+        <li>🌊 C/C++ (learning)</li>
         <li>✨ GLSL (learning)</li>
         <li>⚙️ Rust (learning)</li>
         <li>💙 Lua (learning)</li>
