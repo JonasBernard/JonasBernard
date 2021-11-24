@@ -26,21 +26,21 @@
     </td>
     <td>
       <ul>
-        <li>📱 Android SDK</li>
+        <li>🐳 Docker and Docker Compose</li>
         <li>✉️ LaTeX, LuaTeX, TikZ</li>
         <li>💎 Jekyll, GitHub Pages</li>
         <li>📍 AJAX, REST APIs</li>
         <li>📎 HTML, CSS, SCSS, SASS</li>
-        <li>💚 Node.js</li>
+        <li>💚 Node.js, npm, yarn</li>
         <li>🏃🏽 Fastlane</li>
-        <li>🚀 GitHub Actions</li>
-        <li>🐳 Docker and Docker Compose</li>
+        <li>🚀 GitHub Actions, Jenkins</li>
         <li>🎮 Minecraft Mods and Plugins</li>
         <li>🔦 OpenGL, WebGL</li>
       </ul>
     </td>
     <td>
       <ul>
+        <li>📱 Android SDK</li>
         <li>🍡 Django</li>
         <li>🧪 Flask</li>
         <li>🐦 Bootstrap</li>
