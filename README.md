@@ -1,5 +1,6 @@
 <!-- ### Hi there 👋 -->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=JonasBernard&theme=nord&hide_border=true&border_radius=2.5&date_format=j%20M%5B%20Y%5D&background=DDDDDD00)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasBernard&theme=dark&hide=issues&count_private=true&show_icons=true&hide_border=true&bg_color=ffffff00)](https://github.com/JonasBernard/JonasBernard)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasBernard&layout=compact&theme=dark&hide=ruby&langs_count=8&card_width=300&hide_border=true&bg_color=ffffff00)](https://github.com/JonasBernard/JonasBernard)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JonasBernard&layout=compact&theme=dark&card_width=300&hide_border=true&bg_color=ffffff00)](https://github.com/anuraghazra/github-readme-stats)
