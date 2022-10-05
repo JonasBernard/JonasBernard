@@ -5,6 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasBernard&layout=compact&theme=dark&hide=ruby&langs_count=8&card_width=300&hide_border=true&bg_color=ffffff00)](https://github.com/JonasBernard/JonasBernard)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JonasBernard&layout=compact&theme=dark&card_width=300&hide_border=true&bg_color=ffffff00)](https://github.com/anuraghazra/github-readme-stats)
 
+[See my badgs on Holopin!](https://www.holopin.io/@jonasbernard)
+
 <table>
   <tr>
     <th>💬 Languages</th>
