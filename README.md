@@ -3,7 +3,6 @@
 <p align="center"><img src="https://streak-stats.demolab.com?user=JonasBernard&theme=nord&hide_border=true&border_radius=2.5&date_format=j%20M%5B%20Y%5D&background=DDDDDD00)](https://git.io/streak-stats" alt="GitHub Streak" /></p>
 <p align="center"><img src="https://readme-stats.jonas-bernard.dev/api?username=JonasBernard&theme=dark&hide=issues&count_private=true&show_icons=true&hide_border=true&bg_color=ffffff00" alt="Jonas' GitHub stats" /></p>
 <p align="center"><img src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=JonasBernard&layout=compact&theme=dark&hide=ruby&langs_count=8&card_width=300&hide_border=true&bg_color=ffffff00" alt="Jonas' Top Languages" /></p>
-<p align="center"><img src="https://readme-stats.jonas-bernard.dev/api/wakatime?username=JonasBernard&layout=compact&theme=dark&card_width=300&hide_border=true&bg_color=ffffff00" alt="Jonas' Wakatime stats" /></p>
 <p align="center"><a href="https://www.holopin.io/@jonasbernard">See my badges on Holopin!</a></p>
 
 <table>
